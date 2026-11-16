@@ -1,0 +1,21 @@
+{
+  "number": 15,
+  "name": "Ergo",
+  "source": "https://ergo.chat/",
+  "docker_hub": "ergoplatform/ergo",
+  "tag": "v6.0.8",
+  "repository": "https://github.com/waskevin/tnas-app-ergo",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "screenshot_path": "precheck-screenshots/ergo/x86_64/run.png",
+  "screenshot_status": "pending",
+  "developer_name": "管浩良",
+  "developer_email": "k.kuan@qq.com",
+  "submission_status": "not_submitted",
+  "scheduled_publish": "20:00",
+  "runtime_status": "no_http",
+  "runtime_note": ""
+}
