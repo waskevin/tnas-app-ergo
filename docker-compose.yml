@@ -1,0 +1,6 @@
+services:
+  ergo:
+    image: ergoplatform/ergo:v6.0.8
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
